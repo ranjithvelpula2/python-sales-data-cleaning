@@ -1,0 +1,9 @@
+order_id,product,region,quantity,unit_price
+1,Laptop,North,2,600
+2,Mouse,South,10,15
+3,Keyboard,north,5,30
+4,Laptop,South,1,600
+5,Monitor,East,,150
+6,Mouse,East,8,15
+6,Mouse,East,8,15
+7,Monitor,North,2,150
