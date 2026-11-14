@@ -15,4 +15,4 @@ pip install pandas
 python3 analysis.py
 
 ## Finding
-Laptops earned the most revenue (1800) and the North region was the top region (1650), out of a total of 3045.
+Laptops earned the most revenue (1800) and the North region was the top region (1650), out of a total of 3045. One missing quantity was filled with median (3.5).
